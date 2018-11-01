@@ -7,3 +7,14 @@
   justify-content:space-between;
   
 }
+p{
+  display: flex;
+  justify-content:space-around;
+  font-size:20px;
+  color:rgb(42,19,142)
+}
+
+div{
+  font-size-adjust: 0.58;
+}
+
